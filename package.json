@@ -1,0 +1,24 @@
+{
+  "name": "mfa",
+  "version": "1.0.0",
+  "description": "A ts library for Multi-factor authentication (MFA).",
+  "main": "./lib/mfa.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nishadil/MFAts.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nishadil/MFAts/issues"
+  },
+  "homepage": "https://github.com/nishadil/MFAts#readme",
+  "keywords": [
+    "MFA",
+    "2FA",
+    "MFAts"
+  ],
+  "author": "Nishadil.dev",
+  "license": "MIT"
+}
